@@ -9,8 +9,8 @@
     * [Kafka Programming Tutorials](https://www.conduktor.io/kafka/kafka-programming-tutorials)
         * [Kafka Client Libraries SDK List](https://www.conduktor.io/kafka/kafka-sdk-list)
 ### Jetbrains
-    * Intellij IDEA  
-        * [Windows Download](https://www.jetbrains.com/idea/download/#section=windows)
+    * Intellij IDEA: 
+        * Download: [Windows Download](https://www.jetbrains.com/idea/download/)
 
 ## Kafka
 ### Start Kafka
